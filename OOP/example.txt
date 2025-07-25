@@ -1,0 +1,2 @@
+This is an example of file handling in C++.
+We are writing this to a file and then reading it.
