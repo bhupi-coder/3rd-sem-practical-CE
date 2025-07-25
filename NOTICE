@@ -1,0 +1,18 @@
+Project: 3rd Semester Practical Programs  
+Author: Bhupen Chirmade  
+Year: 2025
+
+This repository contains practical programs created for educational purposes as part of the 3rd Semester Computer Engineering curriculum. The programs are categorized under:
+
+- Computer Graphics (CG)
+- Fundamentals of Data Structures (FDS)
+- Object-Oriented Programming (OOP)
+
+All code is original unless otherwise stated.  
+OpenGL programs use standard libraries (`GL`, `GLU`, `GLUT`), which are licensed under their respective open-source licenses.
+
+---
+
+This software is distributed under the MIT License.  
+See the LICENSE file for more details.
+
