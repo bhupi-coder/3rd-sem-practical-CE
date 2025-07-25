@@ -25,11 +25,14 @@ Each folder is organized by subject and experiment number, with both original an
 │ └── Extra/ → Hilbert Curve, etc.
 │
 ├── FDS/
-│ ├── Exp-07/ to Exp-13/ → Various Data Structures in C++
+│ └── Exp-07/ to Exp-13/ → Various Data Structures in C++
 │
 ├── OOP/
-│ ├── 01_OOP.cpp to 07_OOP.cpp → C++ Object-Oriented Programs
+│ └── 01_OOP.cpp to 07_OOP.cpp → C++ Object-Oriented Programs
 │
+├── README.md
+├── NOTICE
+├── LICENSE
 └── .vscode/ → Configuration for VS Code
 
 
